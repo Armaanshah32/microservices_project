@@ -23,7 +23,7 @@ It is built using **Spring Boot**, **Spring Cloud**, and **PostgreSQL**, ensurin
 
 ## **📌 Technologies Used**  
 
-- **Java 17+**  
+- **Java 23**  
 - **Spring Boot 3.4.3**  
 - **Spring Cloud Netflix Eureka**  
 - **Spring Boot Security**  
