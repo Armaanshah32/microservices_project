@@ -37,3 +37,7 @@ All services are containerized using Docker and deployed on a Kubernetes cluster
 - **Kubernetes**
 
 Note - Snapshot files were removed because of size constraint. Yaml and docker compose files should be at the root of the project.
+
+![image](https://github.com/user-attachments/assets/bf8b957c-e71f-4912-b546-fd8469361bf2)
+
+< Verification of kubernetes working with port forwarding >
