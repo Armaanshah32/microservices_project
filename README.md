@@ -17,7 +17,8 @@ It is built using **Spring Boot**, **Spring Cloud**, and **PostgreSQL**, ensurin
 **Account Service** – Handles bank accounts.  
 **Transaction Service** – Manages deposits, withdrawals, and transfers.  
 **Eureka Server** – Service registry for microservices.  
-**API Gateway** – Single entry point for client requests.  
+**API Gateway** – Single entry point for client requests.
+All services are containerized using Docker and deployed on a Kubernetes cluster, enabling load balancing, scaling, and fault tolerance.
 
 ---
 
@@ -30,5 +31,7 @@ It is built using **Spring Boot**, **Spring Cloud**, and **PostgreSQL**, ensurin
 - **Spring Data JPA (Hibernate)**  
 - **PostgreSQL**  
 - **API Gateway**  
-- **RestTemplate (Inter-service communication)**  
+- **RestTemplate (Inter-service communication)**
+- **Docker**
+- **Kubernetes**
 
