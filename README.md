@@ -36,3 +36,4 @@ All services are containerized using Docker and deployed on a Kubernetes cluster
 - **Docker**
 - **Kubernetes**
 
+Note - Snapshot files were removed because of size constraint. Yaml and docker compose files should be at the root of the project.
